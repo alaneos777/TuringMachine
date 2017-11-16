@@ -1,5 +1,9 @@
 /*
 Proyecto final
+	Grupo: 2CM4
+	Integrantes:
+		-Fuentes García Alan Kevin
+	
 */
 
 #include <bits/stdc++.h>
