@@ -1,3 +1,5 @@
+#include "Terna.cpp"
+
 struct TuringMachine {
 	vector<int> estados;
 	vector<char> alfabetoEntrada;
