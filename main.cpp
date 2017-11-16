@@ -1,5 +1,5 @@
 /*
-Proyecto final
+Proyecto final de teoría computacional
 	Grupo: 2CM4
 	Integrantes:
 		-Fuentes García Alan Kevin
