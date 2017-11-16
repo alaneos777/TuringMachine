@@ -4,8 +4,11 @@ Proyecto final
 	Integrantes:
 		-Fuentes García Alan Kevin
 		-López Leal Irving
+		-Ontiveros Salazar Alan Enrique
 		-Ruiz Lopez Luis Carlos
-	
+	Descripción: implementación de la Máquina de Turing
+	universal determinista de una sola cinta
+	Aplicación: convertidor de decimal a binario
 */
 
 #include <bits/stdc++.h>
