@@ -3,6 +3,7 @@ Proyecto final
 	Grupo: 2CM4
 	Integrantes:
 		-Fuentes García Alan Kevin
+		-López Leal Irving
 	
 */
 
