@@ -12,6 +12,8 @@ Proyecto final de teoría computacional
 */
 
 #include <bits/stdc++.h>
+#include "TuringMachine.cpp"
+
 using namespace std;
 
 int main(){
