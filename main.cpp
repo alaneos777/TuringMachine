@@ -4,6 +4,7 @@ Proyecto final
 	Integrantes:
 		-Fuentes García Alan Kevin
 		-López Leal Irving
+		-Ruiz Lopez Luis Carlos
 	
 */
 
