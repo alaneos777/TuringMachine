@@ -1,7 +1,7 @@
 #include "Terna.cpp"
 
 struct TuringMachine {
-	vector<int> estados;
+	int numeroEstados;
 	vector<char> alfabetoEntrada;
 	vector<char> alfabetoCinta;
 	int inicial;
