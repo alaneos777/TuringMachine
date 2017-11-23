@@ -1,4 +1,8 @@
 #include "Terna.cpp"
+#include <vector>
+#include <list>
+#include <map>
+#include <algorithm>
 
 struct TuringMachine {
 	int numeroEstados;
