@@ -4,6 +4,8 @@
 #include <map>
 #include <algorithm>
 
+using namespace std;
+
 struct TuringMachine {
 	int numeroEstados;
 	vector<char> alfabetoEntrada;
