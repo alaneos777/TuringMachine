@@ -31,7 +31,7 @@ struct TuringMachine {
     }
 	
 	bool leerEntrada (string entrada){
-		list<char> cinta (cadena.begin(), cadena.end());
+		list<char> cinta (entrada.begin(), entrada.end());
 		int estadoActual = inicial;
 		auto simboloActual = cinta.begin();	/* auto -> list::iterator<char> */
 		while (delta[estadoActual].count(*simboloActual) > 0){
