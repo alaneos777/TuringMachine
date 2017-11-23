@@ -19,4 +19,10 @@ struct TuringMachine {
 		sort(alfabetoCinta.begin(),alfabetoCinta.end());
 		sort(finales.begin(),finales.end());
 	}
+	void agregar(int estado, char c, Terna t){
+		delta[estado][c] = t; 
+        }
+	
 };
+
+
